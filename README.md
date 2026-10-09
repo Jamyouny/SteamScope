@@ -9,6 +9,7 @@ Steam 游戏库分析、吃灰报告、玩家画像与随机游戏推荐。无�
 [English](README.en.md) · [MIT License](LICENSE) · [数据与接口说明](docs/DATA.md)
 
 [![CI](https://github.com/Jamyouny/SteamScope/actions/workflows/ci.yml/badge.svg)](https://github.com/Jamyouny/SteamScope/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 </div>
 
@@ -47,6 +48,8 @@ React 19 · TypeScript · Vite · Tailwind CSS 4 · Framer Motion · Recharts ·
 需要 **Node.js 22 或更高版本**和 npm。
 
 ```bash
+git clone https://github.com/Jamyouny/SteamScope.git
+cd SteamScope
 npm install
 cp .env.example .env.local
 npm run dev

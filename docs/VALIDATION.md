@@ -8,7 +8,7 @@ Local validation completed on 2026-10-09 (Asia/Shanghai). These results describe
 | TypeScript                  | Passed through `npm run build` (`tsc --noEmit`)                                                                  |
 | Prettier                    | `npm run format:check` passed                                                                                    |
 | ESLint                      | `npm run lint` passed                                                                                            |
-| Unit tests                  | 42 tests passed across 3 files                                                                                   |
+| Unit tests                  | 47 tests passed across 4 files                                                                                   |
 | Production build            | `npm run build` passed; page chunks split; no oversized-chunk warning                                            |
 | Production dependency audit | `npm audit --omit=dev` found 0 vulnerabilities                                                                   |
 | Frontend credential scan    | No `STEAM_API_KEY` or test credential string in browser build output                                             |
@@ -35,7 +35,6 @@ API boundary tests use mocked upstream responses. They cover missing/rejected cr
 
 - A hosted real-player query after Vercel deployment: local authenticated lookup is now verified, but hosted verification still requires deployment.
 - A Vercel deployment: deployment configuration and bilingual instructions are included; no hosted deployment is claimed.
-- GitHub Actions execution in GitHub: the workflow is supplied; its checks were run locally.
 - Cross-instance/global rate limiting: this project intentionally uses bounded warm-instance memory caches and guards, with platform limits recommended for large deployments.
 
 Screenshots and exported cards in `docs/screenshots/` are captured outputs from the labeled demo, not images of a real player.
@@ -64,4 +63,4 @@ A subsequent local `/api/library` request returned HTTP 200, `demo=false`, a com
 
 ## Open-source publication
 
-Public repository: https://github.com/Jamyouny/SteamScope. Publication candidate contains 55 files under MIT, with six Demo screenshots/cards. Live credentials, private environment files and real-player screenshots are excluded. GitHub Actions verification is separate from the local checks recorded above.
+Public repository: https://github.com/Jamyouny/SteamScope. Publication candidate contains 55 files under MIT, with six Demo screenshots/cards. Live credentials, private environment files and real-player screenshots are excluded. GitHub Actions [run 37952568142](https://github.com/Jamyouny/SteamScope/actions/runs/37952568142) completed successfully for the first full-source publication commit. GitHub verified dependency installation, TypeScript, ESLint, all unit tests, production build and formatting on Node.js 22. This hosted CI result is separate from the local checks recorded above.

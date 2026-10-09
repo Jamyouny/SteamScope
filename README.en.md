@@ -13,6 +13,7 @@ An open-source Steam library analyzer, player personality generator and backlog 
 ![Dashboard — clearly labeled demo data](docs/screenshots/dashboard.png)
 
 [![CI](https://github.com/Jamyouny/SteamScope/actions/workflows/ci.yml/badge.svg)](https://github.com/Jamyouny/SteamScope/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Features
 
@@ -42,6 +43,8 @@ React 19, TypeScript, Vite, Tailwind CSS 4, Framer Motion, Recharts, Lucide Reac
 Install **Node.js 22+** and npm, then run from the repository root:
 
 ```bash
+git clone https://github.com/Jamyouny/SteamScope.git
+cd SteamScope
 npm install
 cp .env.example .env.local
 npm run dev
