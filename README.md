@@ -8,6 +8,8 @@ Steam 游戏库分析、吃灰报告、玩家画像与随机游戏推荐。无�
 
 [English](README.en.md) · [MIT License](LICENSE) · [数据与接口说明](docs/DATA.md)
 
+[![CI](https://github.com/Jamyouny/SteamScope/actions/workflows/ci.yml/badge.svg)](https://github.com/Jamyouny/SteamScope/actions/workflows/ci.yml)
+
 </div>
 
 ![SteamScope Dashboard — 演示数据](docs/screenshots/dashboard.png)
@@ -107,7 +109,7 @@ npx vercel
 npx vercel --prod
 ```
 
-当前交付已完成本地真实 Steam 查询验证。GitHub 推送与 Vercel 线上部署尚未执行；部署时需要自行在 Vercel 设置服务端环境变量。
+当前项目已完成本地真实 Steam 查询验证，公开仓库位于 [Jamyouny/SteamScope](https://github.com/Jamyouny/SteamScope)。Vercel 线上部署尚未执行；部署时需要在 Vercel 设置服务端环境变量。
 
 ## 项目结构
 

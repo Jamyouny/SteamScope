@@ -34,7 +34,7 @@ API boundary tests use mocked upstream responses. They cover missing/rejected cr
 ## Not executed
 
 - A hosted real-player query after Vercel deployment: local authenticated lookup is now verified, but hosted verification still requires deployment.
-- A Vercel deployment or GitHub push: no repository/deployment account was specified. Deployment configuration and bilingual instructions are included.
+- A Vercel deployment: deployment configuration and bilingual instructions are included; no hosted deployment is claimed.
 - GitHub Actions execution in GitHub: the workflow is supplied; its checks were run locally.
 - Cross-instance/global rate limiting: this project intentionally uses bounded warm-instance memory caches and guards, with platform limits recommended for large deployments.
 
@@ -61,3 +61,7 @@ A subsequent local `/api/library` request returned HTTP 200, `demo=false`, a com
 - Actual browser observation now works. Expanded ID guide and real-player Dashboard were verified visibly, including real-data label, statistics and privacy instructions. Earlier browser observation timeouts describe the earlier attempt.
 
 - Real-player Dark card rendered in the browser and was actually downloaded as a valid 1200×720 PNG. The real-player PNG and proof screenshot are saved separately outside the public source ZIP. Demo screenshots remain the only screenshots in the repository.
+
+## Open-source publication
+
+Public repository: https://github.com/Jamyouny/SteamScope. Publication candidate contains 55 files under MIT, with six Demo screenshots/cards. Live credentials, private environment files and real-player screenshots are excluded. GitHub Actions verification is separate from the local checks recorded above.

@@ -12,6 +12,8 @@ An open-source Steam library analyzer, player personality generator and backlog 
 
 ![Dashboard — clearly labeled demo data](docs/screenshots/dashboard.png)
 
+[![CI](https://github.com/Jamyouny/SteamScope/actions/workflows/ci.yml/badge.svg)](https://github.com/Jamyouny/SteamScope/actions/workflows/ci.yml)
+
 ## Features
 
 - Resolve SteamID64, profile URLs and vanity profile URLs with the official Steam Web API.
@@ -90,7 +92,7 @@ Only SteamScope’s server requests to the Steam API, Store metadata and avatar 
 
 You can also run `npx vercel` followed by `npx vercel --prod`. Demo works without a key. The included configuration handles SPA fallback and function duration.
 
-A live-key Steam library query has been verified locally. A GitHub push and Vercel deployment have not been executed. Set your own server environment variables when deploying.
+A live-key Steam library query has been verified locally. The public repository is [Jamyouny/SteamScope](https://github.com/Jamyouny/SteamScope). Vercel deployment has not been executed. Set your own server environment variables when deploying.
 
 ## Structure
 
