@@ -1,0 +1,349 @@
+{
+  "player": {
+    "steamid": "76561198000000000",
+    "personaname": "Alex Chen",
+    "avatarfull": "/demo-avatar.svg",
+    "profileurl": "https://steamcommunity.com/",
+    "communityvisibilitystate": 3
+  },
+  "games": [
+    {
+      "appid": 730,
+      "name": "Counter-Strike 2",
+      "playtime_forever": 84240,
+      "genres": ["Action"],
+      "playtime_2weeks": 420
+    },
+    {
+      "appid": 570,
+      "name": "Dota 2",
+      "playtime_forever": 48360,
+      "genres": ["Strategy"]
+    },
+    {
+      "appid": 1086940,
+      "name": "Baldur’s Gate 3",
+      "playtime_forever": 18240,
+      "genres": ["RPG", "Strategy"],
+      "playtime_2weeks": 360
+    },
+    {
+      "appid": 1245620,
+      "name": "ELDEN RING",
+      "playtime_forever": 12420,
+      "genres": ["Action", "RPG"]
+    },
+    {
+      "appid": 1172470,
+      "name": "Apex Legends",
+      "playtime_forever": 10620,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 1091500,
+      "name": "Cyberpunk 2077",
+      "playtime_forever": 8940,
+      "genres": ["RPG"]
+    },
+    {
+      "appid": 413150,
+      "name": "Stardew Valley",
+      "playtime_forever": 7380,
+      "genres": ["Simulation", "RPG"],
+      "playtime_2weeks": 64
+    },
+    {
+      "appid": 105600,
+      "name": "Terraria",
+      "playtime_forever": 6720,
+      "genres": ["Adventure"]
+    },
+    {
+      "appid": 1145360,
+      "name": "Hades",
+      "playtime_forever": 4920,
+      "genres": ["Action", "RPG"],
+      "playtime_2weeks": 96
+    },
+    {
+      "appid": 292030,
+      "name": "The Witcher 3: Wild Hunt",
+      "playtime_forever": 4620,
+      "genres": ["RPG"]
+    },
+    {
+      "appid": 271590,
+      "name": "Grand Theft Auto V",
+      "playtime_forever": 3240,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 440,
+      "name": "Team Fortress 2",
+      "playtime_forever": 2680,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 427520,
+      "name": "Factorio",
+      "playtime_forever": 2130,
+      "genres": ["Simulation"]
+    },
+    {
+      "appid": 620,
+      "name": "Portal 2",
+      "playtime_forever": 1080,
+      "genres": ["Puzzle"]
+    },
+    {
+      "appid": 367520,
+      "name": "Hollow Knight",
+      "playtime_forever": 970,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 646570,
+      "name": "Slay the Spire",
+      "playtime_forever": 840,
+      "genres": ["Strategy"]
+    },
+    {
+      "appid": 250900,
+      "name": "The Binding of Isaac: Rebirth",
+      "playtime_forever": 630,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 1151640,
+      "name": "Horizon Zero Dawn",
+      "playtime_forever": 540,
+      "genres": ["RPG"]
+    },
+    {
+      "appid": 782330,
+      "name": "DOOM Eternal",
+      "playtime_forever": 360,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 8870,
+      "name": "BioShock Infinite",
+      "playtime_forever": 280,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 400,
+      "name": "Portal",
+      "playtime_forever": 130,
+      "genres": ["Puzzle"]
+    },
+    {
+      "appid": 391540,
+      "name": "Undertale",
+      "playtime_forever": 95,
+      "genres": ["RPG"]
+    },
+    {
+      "appid": 990080,
+      "name": "Hogwarts Legacy",
+      "playtime_forever": 72,
+      "genres": ["RPG"]
+    },
+    {
+      "appid": 1817070,
+      "name": "Marvel’s Spider-Man Remastered",
+      "playtime_forever": 53,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 814380,
+      "name": "Sekiro: Shadows Die Twice",
+      "playtime_forever": 38,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 1206560,
+      "name": "WorldBox",
+      "playtime_forever": 26,
+      "genres": ["Simulation"]
+    },
+    {
+      "appid": 1794680,
+      "name": "Vampire Survivors",
+      "playtime_forever": 14,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 264710,
+      "name": "Subnautica",
+      "playtime_forever": 8,
+      "genres": ["Adventure"]
+    },
+    {
+      "appid": 960090,
+      "name": "Bloons TD 6",
+      "playtime_forever": 3,
+      "genres": ["Strategy"]
+    },
+    {
+      "appid": 1158310,
+      "name": "Crusader Kings III",
+      "playtime_forever": 1,
+      "genres": ["Strategy"]
+    },
+    {
+      "appid": 1174180,
+      "name": "Red Dead Redemption 2",
+      "playtime_forever": 0,
+      "genres": ["Adventure"]
+    },
+    {
+      "appid": 553850,
+      "name": "HELLDIVERS 2",
+      "playtime_forever": 0,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 1966720,
+      "name": "Lethal Company",
+      "playtime_forever": 0,
+      "genres": ["Horror"]
+    },
+    {
+      "appid": 238960,
+      "name": "Path of Exile",
+      "playtime_forever": 0,
+      "genres": ["RPG"]
+    },
+    {
+      "appid": 892970,
+      "name": "Valheim",
+      "playtime_forever": 0,
+      "genres": ["Adventure"]
+    },
+    {
+      "appid": 108600,
+      "name": "Project Zomboid",
+      "playtime_forever": 0,
+      "genres": ["Simulation"]
+    },
+    {
+      "appid": 221100,
+      "name": "DayZ",
+      "playtime_forever": 0,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 252490,
+      "name": "Rust",
+      "playtime_forever": 0,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 236390,
+      "name": "War Thunder",
+      "playtime_forever": 0,
+      "genres": ["Simulation"]
+    },
+    {
+      "appid": 393380,
+      "name": "Squad",
+      "playtime_forever": 0,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 550,
+      "name": "Left 4 Dead 2",
+      "playtime_forever": 0,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 431960,
+      "name": "Wallpaper Engine",
+      "playtime_forever": 0,
+      "genres": ["Utility"]
+    },
+    {
+      "appid": 1623730,
+      "name": "Palworld",
+      "playtime_forever": 0,
+      "genres": ["Adventure"]
+    },
+    {
+      "appid": 294100,
+      "name": "RimWorld",
+      "playtime_forever": 0,
+      "genres": ["Simulation"]
+    },
+    {
+      "appid": 394360,
+      "name": "Hearts of Iron IV",
+      "playtime_forever": 0,
+      "genres": ["Strategy"]
+    },
+    {
+      "appid": 227300,
+      "name": "Euro Truck Simulator 2",
+      "playtime_forever": 0,
+      "genres": ["Simulation"]
+    },
+    {
+      "appid": 289070,
+      "name": "Civilization VI",
+      "playtime_forever": 0,
+      "genres": ["Strategy"]
+    },
+    {
+      "appid": 359550,
+      "name": "Rainbow Six Siege",
+      "playtime_forever": 0,
+      "genres": ["Action"]
+    },
+    {
+      "appid": 381210,
+      "name": "Dead by Daylight",
+      "playtime_forever": 0,
+      "genres": ["Horror"]
+    },
+    {
+      "appid": 1238810,
+      "name": "Battlefield V",
+      "playtime_forever": 0,
+      "genres": ["Action"]
+    }
+  ],
+  "recent": [
+    {
+      "appid": 730,
+      "name": "Counter-Strike 2",
+      "playtime_forever": 84240,
+      "genres": ["Action"],
+      "playtime_2weeks": 420
+    },
+    {
+      "appid": 1086940,
+      "name": "Baldur’s Gate 3",
+      "playtime_forever": 18240,
+      "genres": ["RPG", "Strategy"],
+      "playtime_2weeks": 360
+    },
+    {
+      "appid": 413150,
+      "name": "Stardew Valley",
+      "playtime_forever": 7380,
+      "genres": ["Simulation", "RPG"],
+      "playtime_2weeks": 64
+    },
+    {
+      "appid": 1145360,
+      "name": "Hades",
+      "playtime_forever": 4920,
+      "genres": ["Action", "RPG"],
+      "playtime_2weeks": 96
+    }
+  ],
+  "level": 42,
+  "demo": true,
+  "fetchedAt": "2026-01-01T00:00:00Z",
+  "warnings": []
+}
